@@ -3,7 +3,6 @@
 This project is a comprehensive data analysis of customer data from FoodHub, aimed at uncovering insights to improve business strategies and customer satisfaction. The analysis includes data preprocessing, exploratory data analysis (EDA), model training, and evaluation.
 
 ## Project Files
-- `Full_Code_Solution_AmirMalaeb.html`: An HTML file containing the complete code and results in a static, shareable format.
 - `FoodHub_Data_Analysis.ipynb`: The Jupyter Notebook file with the full code, data analysis, and model training steps.
 
 ## Project Overview
@@ -50,8 +49,7 @@ The dataset includes features related to customer behavior and demographics such
 - **High-Value Customers**: Recognized customers with high average order value and frequent orders.
 
 ## How to Use
-1. **View the Results**: Open the HTML file (`Full_Code_Solution_AmirMalaeb.html`) to see the complete code and results without needing to run the code.
-2. **Run the Code**: Open the Jupyter Notebook file (`FoodHub_Data_Analysis.ipynb`) to view and execute the code interactively. Ensure you have the necessary dependencies installed.
+1. **Run the Code**: Open the Jupyter Notebook file (`FoodHub_Data_Analysis.ipynb`) to view and execute the code interactively. Ensure you have the necessary dependencies installed.
 
 ### Dependencies
 To run the Jupyter Notebook, ensure you have the following Python packages installed:
